@@ -1,0 +1,10 @@
+c:\users\cwoodill\documents\visual studio 2012\Projects\WindowsAzureTableStorageDAO\WindowsAzureTableStorageDAO\obj\Debug\WindowsAzureTableStorageDAO.csprojResolveAssemblyReference.cache
+c:\users\cwoodill\documents\visual studio 2012\Projects\WindowsAzureTableStorageDAO\WindowsAzureTableStorageDAO\bin\Debug\WindowsAzureTableStorageDAO.dll
+c:\users\cwoodill\documents\visual studio 2012\Projects\WindowsAzureTableStorageDAO\WindowsAzureTableStorageDAO\bin\Debug\WindowsAzureTableStorageDAO.pdb
+c:\users\cwoodill\documents\visual studio 2012\Projects\WindowsAzureTableStorageDAO\WindowsAzureTableStorageDAO\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+c:\users\cwoodill\documents\visual studio 2012\Projects\WindowsAzureTableStorageDAO\WindowsAzureTableStorageDAO\bin\Debug\Microsoft.Data.OData.dll
+c:\users\cwoodill\documents\visual studio 2012\Projects\WindowsAzureTableStorageDAO\WindowsAzureTableStorageDAO\bin\Debug\Microsoft.Data.Edm.dll
+c:\users\cwoodill\documents\visual studio 2012\Projects\WindowsAzureTableStorageDAO\WindowsAzureTableStorageDAO\bin\Debug\System.Spatial.dll
+c:\users\cwoodill\documents\visual studio 2012\Projects\WindowsAzureTableStorageDAO\WindowsAzureTableStorageDAO\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+c:\users\cwoodill\documents\visual studio 2012\Projects\WindowsAzureTableStorageDAO\WindowsAzureTableStorageDAO\obj\Debug\WindowsAzureTableStorageDAO.dll
+c:\users\cwoodill\documents\visual studio 2012\Projects\WindowsAzureTableStorageDAO\WindowsAzureTableStorageDAO\obj\Debug\WindowsAzureTableStorageDAO.pdb

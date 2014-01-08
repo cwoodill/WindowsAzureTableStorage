@@ -1,0 +1,17 @@
+c:\users\cwoodill\documents\visual studio 2012\Projects\WindowsAzureTableStorageDAO\WindowsAzureTableStorageImporter\bin\Debug\WindowsAzureTableStorageImporter.exe.config
+c:\users\cwoodill\documents\visual studio 2012\Projects\WindowsAzureTableStorageDAO\WindowsAzureTableStorageImporter\bin\Debug\WindowsAzureTableStorageImporter.exe
+c:\users\cwoodill\documents\visual studio 2012\Projects\WindowsAzureTableStorageDAO\WindowsAzureTableStorageImporter\bin\Debug\WindowsAzureTableStorageImporter.pdb
+c:\users\cwoodill\documents\visual studio 2012\Projects\WindowsAzureTableStorageDAO\WindowsAzureTableStorageImporter\obj\Debug\WindowsAzureTableStorageImporter.exe
+c:\users\cwoodill\documents\visual studio 2012\Projects\WindowsAzureTableStorageDAO\WindowsAzureTableStorageImporter\obj\Debug\WindowsAzureTableStorageImporter.pdb
+C:\Users\cwoodill\documents\visual studio 2012\Projects\WindowsAzureTableStorageDAO\WindowsAzureTableStorageImporter\bin\Debug\DataImporter.dll
+C:\Users\cwoodill\documents\visual studio 2012\Projects\WindowsAzureTableStorageDAO\WindowsAzureTableStorageImporter\bin\Debug\WindowsAzureTableStorageDAO.dll
+C:\Users\cwoodill\documents\visual studio 2012\Projects\WindowsAzureTableStorageDAO\WindowsAzureTableStorageImporter\bin\Debug\WindowsAzureTableStorageDAOUnitTests.dll
+C:\Users\cwoodill\documents\visual studio 2012\Projects\WindowsAzureTableStorageDAO\WindowsAzureTableStorageImporter\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\cwoodill\documents\visual studio 2012\Projects\WindowsAzureTableStorageDAO\WindowsAzureTableStorageImporter\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\cwoodill\documents\visual studio 2012\Projects\WindowsAzureTableStorageDAO\WindowsAzureTableStorageImporter\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\cwoodill\documents\visual studio 2012\Projects\WindowsAzureTableStorageDAO\WindowsAzureTableStorageImporter\bin\Debug\System.Spatial.dll
+C:\Users\cwoodill\documents\visual studio 2012\Projects\WindowsAzureTableStorageDAO\WindowsAzureTableStorageImporter\bin\Debug\DataImporter.pdb
+C:\Users\cwoodill\documents\visual studio 2012\Projects\WindowsAzureTableStorageDAO\WindowsAzureTableStorageImporter\bin\Debug\WindowsAzureTableStorageDAOUnitTests.pdb
+C:\Users\cwoodill\documents\visual studio 2012\Projects\WindowsAzureTableStorageDAO\WindowsAzureTableStorageImporter\bin\Debug\WindowsAzureTableStorageDAO.pdb
+C:\Users\cwoodill\documents\visual studio 2012\Projects\WindowsAzureTableStorageDAO\WindowsAzureTableStorageImporter\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\cwoodill\documents\visual studio 2012\Projects\WindowsAzureTableStorageDAO\WindowsAzureTableStorageImporter\obj\Debug\WindowsAzureTableStorageImporter.csprojResolveAssemblyReference.cache

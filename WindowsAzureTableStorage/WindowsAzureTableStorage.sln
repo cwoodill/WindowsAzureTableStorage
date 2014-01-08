@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsAzureTableStorageImporter", "WindowsAzureTableStorageImporter\WindowsAzureTableStorageImporter.csproj", "{1EF633AF-5D20-41C8-B0F6-321E46B01824}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F7E8BA16-3ED1-42F6-9258-EDD6559DFA17} = {F7E8BA16-3ED1-42F6-9258-EDD6559DFA17}
+		{9007D1D9-0ACF-45DB-B754-35649DAE5C49} = {9007D1D9-0ACF-45DB-B754-35649DAE5C49}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataImporter", "DataImporter\DataImporter.csproj", "{9007D1D9-0ACF-45DB-B754-35649DAE5C49}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B7136147-EE2D-4A7D-82F9-734CCBDFDDC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsAzureTableStorageUnitTests", "WindowsAzureTableStorageUnitTests\WindowsAzureTableStorageUnitTests.csproj", "{6C498F9A-0698-4CBC-9855-2ACEFDCD71D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsAzureTableStorage", "WindowsAzureTableStorage\WindowsAzureTableStorage.csproj", "{F7E8BA16-3ED1-42F6-9258-EDD6559DFA17}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://systemgroupdemo.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DataImporter\\DataImporter.csproj
+		SccProjectName1 = DataImporter
+		SccLocalPath1 = DataImporter
+		SccProjectUniqueName2 = WindowsAzureTableStorage\\WindowsAzureTableStorage.csproj
+		SccProjectName2 = WindowsAzureTableStorage
+		SccLocalPath2 = WindowsAzureTableStorage
+		SccProjectUniqueName3 = WindowsAzureTableStorageImporter\\WindowsAzureTableStorageImporter.csproj
+		SccProjectName3 = WindowsAzureTableStorageImporter
+		SccLocalPath3 = WindowsAzureTableStorageImporter
+		SccProjectUniqueName4 = WindowsAzureTableStorageUnitTests\\WindowsAzureTableStorageUnitTests.csproj
+		SccProjectName4 = WindowsAzureTableStorageUnitTests
+		SccLocalPath4 = WindowsAzureTableStorageUnitTests
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EF633AF-5D20-41C8-B0F6-321E46B01824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EF633AF-5D20-41C8-B0F6-321E46B01824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EF633AF-5D20-41C8-B0F6-321E46B01824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EF633AF-5D20-41C8-B0F6-321E46B01824}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9007D1D9-0ACF-45DB-B754-35649DAE5C49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9007D1D9-0ACF-45DB-B754-35649DAE5C49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9007D1D9-0ACF-45DB-B754-35649DAE5C49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9007D1D9-0ACF-45DB-B754-35649DAE5C49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C498F9A-0698-4CBC-9855-2ACEFDCD71D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C498F9A-0698-4CBC-9855-2ACEFDCD71D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C498F9A-0698-4CBC-9855-2ACEFDCD71D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C498F9A-0698-4CBC-9855-2ACEFDCD71D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7E8BA16-3ED1-42F6-9258-EDD6559DFA17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7E8BA16-3ED1-42F6-9258-EDD6559DFA17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7E8BA16-3ED1-42F6-9258-EDD6559DFA17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7E8BA16-3ED1-42F6-9258-EDD6559DFA17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
