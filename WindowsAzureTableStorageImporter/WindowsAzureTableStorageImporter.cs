@@ -106,7 +106,7 @@ namespace WindowsAzureTableStorageImporter
                     }
                 }
                 Console.Out.WriteLine("Starting Upload of " + entities.Count + " entities to Windows Azure Table Storage at " + DateTime.Now);
-                var task = tableStorageService.AddBatchAsync("test", entities, maximumTasks);
+                var task = tableStorageService.AddBatchAsync(azureTableName, entities, maximumTasks);
                 task.Wait();
                 Console.Out.WriteLine("Finished Upload to Windows Azure Table Storage at " + DateTime.Now);
             }
